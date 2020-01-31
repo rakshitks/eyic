@@ -1,1 +1,19 @@
+FOLLOW THESE STEPS TO CREATE THE YOUR OWN DATABASE
+
+1)create A folder and put the location in the file and start captures
+  RUN Image_capturing.py
+
+FOR TRAINING THE MODEL run "model_number.py"
+
+1)TRAIN THE MODEL BY SPECIFYING WHERE THE MODEL HAS TO BE SAVED
+
+specify the location of the database here we have created the model for the database named "closingdilationunder_15.h5"
+
+
+FOR DETECTING THE GESTURE run "gesture.py"
+1) specify the model location 
+
+
+
+
 
